@@ -1,0 +1,9 @@
+MVC Toolbox Changelog
+v0.1.0 - 21/5/2026
+  - Add Snapdragon 8 Elite
+  * Tested on Xiaomi 15 , Xiaomi 15 Pro , Xiaomi 15 Ultra
+
+v0.1.2.PRE - 24/5/2026 
+  - Add Snapdragon 8s Gen 3
+  - Add Snapdragon 7 Gen 3
+  - Add automatic device recognition when connecting
