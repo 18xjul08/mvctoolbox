@@ -16,3 +16,5 @@ v0.1.4.PRE - 25/5/2026
 v0.1.5.PRE - 25/5/2026
   - Add log
   - Add check ABL State (Check if ABL ENG has been pushed to the device)
+v0.1.5 
+  - MVCToolBox v0.1.5 is ready to release
